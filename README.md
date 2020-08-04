@@ -7,3 +7,6 @@ repackaged in a more ROSified way.
 
 The controller node in the ros_driver package provides a crude velocity
 controller.
+
+https://www.dobot.cc/downloadcenter/dobot-magician.html?sub_cat=72#sub-download
+https://hotblackrobotics.github.io/en/blog/2018/06/29/ros-dobot/
